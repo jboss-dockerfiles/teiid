@@ -1,4 +1,4 @@
-teeid
+teiid
 =====
 
-Docker image for Teeid project
+Docker image for Teid project
