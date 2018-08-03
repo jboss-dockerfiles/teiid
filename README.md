@@ -1,6 +1,6 @@
 # Teiid Docker image
 
-This is an example Dockerfile with [Teiid Runtime engine on Wildfly](http://teiid.jboss.org/).
+This is an example Dockerfile with [Teiid Runtime engine on Wildfly](http://teiid.io/).
 
 ## Usage
 
