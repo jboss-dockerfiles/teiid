@@ -3,7 +3,7 @@ FROM jboss/wildfly:19.1.0.Final
 ENV JBOSS_HOME /opt/jboss/wildfly
 
 # Set the TEIID_VERSION env variable
-ENV TEIID_VERSION 15.0.1
+ENV TEIID_VERSION 16.0.0
 
 # Download and unzip Teiid server
 RUN cd $JBOSS_HOME \
